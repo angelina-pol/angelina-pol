@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center" height="32">Hi there, I'm Angelina 👋</h1>
+<h3 align="center">frontend-developer from Russia🇷🇺</h3>
 
 <!--
 **angelina-pol/angelina-pol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
