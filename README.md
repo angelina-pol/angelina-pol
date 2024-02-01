@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma"(https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://www.codewars.com/users/Angelina_Polozhentseva/badges/micro">
 </div>
 <h5>Contacts: gela-turlova@inbox.ru t.me: @Angelina_Polozhentseva</h5>
 
