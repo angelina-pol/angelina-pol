@@ -1,5 +1,6 @@
 <h1 align="center" height="32">Hi there, I'm Angelina 👋</h1>
 <h3 align="center">frontend-developer from Russia🇷🇺</h3>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <h5>Contacts: gela-turlova@inbox.ru t.me: @Angelina_Polozhentseva</h5>
 
 <!--
